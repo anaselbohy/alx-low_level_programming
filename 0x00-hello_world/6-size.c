@@ -1,10 +1,13 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
  *
  * Return: 0 (Always)
- * 
+ *
+ * Description: output sizeof 
 */
+
 int main(void)
 {
 	printf("Size of a char: %i byte(s)\n", sizeof(char));
