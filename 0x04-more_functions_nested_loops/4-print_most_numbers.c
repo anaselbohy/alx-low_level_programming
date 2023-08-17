@@ -5,10 +5,10 @@
  * main - check the code
  * print all numbers from 0 to 9
  *
- * exceot 2 and 4
+ * except 2 and 4
  *
- * return 0 (succes)
-*/
+ * Return: Always 0.
+ */
 
 void print_most_numbers(void)
 {
