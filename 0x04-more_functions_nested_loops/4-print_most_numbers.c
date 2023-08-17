@@ -1,8 +1,3 @@
-/*
- * File: 4-print_most_numbers.c
- * Auth: Ephrem Abebe
- */
-
 #include "main.h"
 
 /**
