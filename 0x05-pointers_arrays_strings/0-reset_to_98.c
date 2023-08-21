@@ -9,7 +9,7 @@
  * Return: Always 0.
 */
 
-void reset_to_98(int *ptr)
+void reset_to_98(int *n)
 {
-	*ptr = 98;
+	*n = 98;
 }
